@@ -56,7 +56,7 @@ Para executar este projeto, você precisará:
 
 1. Clone o repositório do frontend:
    ```bash
-   git clone https://github.com/HhigoHenrique/supermarket-app.git
+   git clone https://github.com/HigoHenrique/supermarket-app.git
    ```
 
 2. Instale as dependências:

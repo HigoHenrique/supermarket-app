@@ -10,7 +10,6 @@ O projeto foi desenvolvido utilizando um stack moderno de tecnologias:
 - **TypeScript** - Superset de JavaScript com tipagem estática
 - **Tailwind CSS** - Framework CSS utility-first para estilização rápida e responsiva
 - **Shadcn/UI** - Componentes de UI reutilizáveis e personalizáveis
-- **API RESTful** - Backend desenvolvido para fornecer dados e processar operações CRUD
 
 ## ✨ Funcionalidades
 
